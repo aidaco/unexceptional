@@ -2,9 +2,7 @@
 
 Tired of all those pesky uncaught Exceptions?
 
-````
-pip install unexceptional
-````
+`pip install unexceptional`
  
 *In the REPL,*  
 *In the CLI,*  
@@ -12,9 +10,7 @@ pip install unexceptional
 __No exceptions.__ 
 
 ## *How do I escape this fresh hell?*
-```
-pip uninstall unexceptional
-```
+`pip uninstall unexceptional`
 
 ## What is even happening?
 
